@@ -16,7 +16,7 @@
 
 ---
 
-<p>This bot has been created by leveraging the <b>@whickeysockets/baileys</b> library, and with the assistance of Node.js, this bot can be utilized.
+<p>This bot has been created by leveraging the [@whiskeySockets/baileys](https://github.com/WhiskeySockets/Baileys) library, and with the assistance of Node.js, this bot can be utilized.
 
 Additionally, for enhanced functionality and user experience, various features have been integrated, making this bot a versatile and efficient tool for different purposes. Whether it's seamless communication, automated tasks, or personalized interactions, this bot is designed to meet diverse needs with ease.</p>
 
@@ -90,3 +90,4 @@ See also the list of [contributors](https://github.com/sazumivicky/wbot) who par
 - [Sazumi Viki](https://github.com/sazumivicky)
 - [sazumiFile](https://cdn.sazumi.moe)
 - [Skizo's Apis](https://skizo.tech)
+- [@whiskeySockets/baileys](https://github.com/WhiskeySockets/Baileys)
