@@ -3,7 +3,7 @@
  <img width=200px height=200px src="http://cdn.sazumi.moe/file/img-131_Ge8McP.jpg" alt="Sazumi logo"></a>
 </p>
 
-<h3 align="center">Whatsapp Bot - Using @whiskeysockets/baileys</h3>
+<h3 align="center">Whatsapp Bot - @whiskeysockets/baileys</h3>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 ---
 
-<p>This bot has been created by leveraging the **@whickeysockets/baileys** library, and with the assistance of Node.js, this bot can be utilized.
+<p>This bot has been created by leveraging the <b>@whickeysockets/baileys</b> library, and with the assistance of Node.js, this bot can be utilized.
 
 Additionally, for enhanced functionality and user experience, various features have been integrated, making this bot a versatile and efficient tool for different purposes. Whether it's seamless communication, automated tasks, or personalized interactions, this bot is designed to meet diverse needs with ease.</p>
 
