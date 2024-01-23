@@ -16,7 +16,7 @@
 
 ---
 
-<p>This bot has been created by leveraging the [Baileys](https://github.com/WhiskeySockets/Baileys) library, and with the assistance of Node.js, this bot can be utilized.
+<p>This bot has been created by leveraging the <b>@whiskeysockets/baileys</b> library, and with the assistance of Node.js, this bot can be utilized.
 
 Additionally, for enhanced functionality and user experience, various features have been integrated, making this bot a versatile and efficient tool for different purposes. Whether it's seamless communication, automated tasks, or personalized interactions, this bot is designed to meet diverse needs with ease.</p>
 
