@@ -16,7 +16,7 @@ module.exports = {
   apis: {
     sazumiviki: {
       endpoint: "https://skizo.tech",
-      apikey: "sazumi",
+      apikey: "YOUR_SKIZO_KEY",
       skizo: {
         key: "YOUR_SKIZO_KEY",
       },
