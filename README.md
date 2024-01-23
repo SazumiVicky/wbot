@@ -16,11 +16,9 @@
 
 ---
 
-<p align="center"> This bot has been created by leveraging the @whickeysockets/baileys library, and with the assistance of Node.js, this bot can be utilized.
+<p>This bot has been created by leveraging the **@whickeysockets/baileys** library, and with the assistance of Node.js, this bot can be utilized.
 
-Additionally, for enhanced functionality and user experience, various features have been integrated, making this bot a versatile and efficient tool for different purposes. Whether it's seamless communication, automated tasks, or personalized interactions, this bot is designed to meet diverse needs with ease.
-    <br> 
-</p>
+Additionally, for enhanced functionality and user experience, various features have been integrated, making this bot a versatile and efficient tool for different purposes. Whether it's seamless communication, automated tasks, or personalized interactions, this bot is designed to meet diverse needs with ease.</p>
 
 ## 📝 Table of Contents
 
@@ -55,7 +53,7 @@ node index.js
 
 ### ⚙️ Commands Options <a name = "cmd"></a>
 
-```
+```javascript
 module.exports = {
     name : "menu", // Use lowercase letters and hyphens, avoid spaces, and ensure uniqueness
     description : "This is menu bot", // Feature explanation, content is free to be filled
