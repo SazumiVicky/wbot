@@ -1,5 +1,5 @@
 {
-  "name": "sazumibot",
+  "name": "wbot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,9 +7,8 @@
     "start": "node index.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "npm:@whiskeysockets/baileys",
     "@ptkdev/logger": "^1.8.0",
     "@whiskeysockets/baileys": "github:whiskeysockets/baileys#update-proto/stable",
     "awesome-phonenumber": "^6.4.0",
